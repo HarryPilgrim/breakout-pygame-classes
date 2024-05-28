@@ -5,15 +5,15 @@ this is a game of breakout, made using Pygame. It utilises OOP and classes for t
 ![breakout](https://github.com/HarryPilgrim/breakout-pygame-classes/assets/76102114/f02020e0-64e4-4eb2-b66b-b54a54d143d5)
 
 
-#how to run game
+# how to run game
 
 simply download the repository and run "main", you will need to import Pygame first.
 
-#what I learnt
+# what I learnt
 
 this project helped me to  understand classes and OOP programming a lot more. How useful it is to tidy up the code (keep code looking neat), and how it makes finding problems and bugs easier (everything is seperated).
 
-#what I plan to improve
+# what I plan to improve
 
 -replaying by pressing the space bar is not working, so you need to close out of the program and re-open it.
 
